@@ -1,0 +1,361 @@
+{
+  "name": "instance_01",
+  "number of slots": 7,
+  "setup costs printing plate": 432,
+  "setup costs extra cylinder": 25,
+  "split costs": 10,
+  "max number of different napkin colors": 2,
+  "designs": [
+    {
+      "id": 0,
+      "optional": 0,
+      "napkin color": 1,
+      "white border": 0,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 30000
+    },
+    {
+      "id": 1,
+      "optional": 0,
+      "napkin color": 2,
+      "white border": 1,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 10000
+    },
+    {
+      "id": 2,
+      "optional": 0,
+      "napkin color": 3,
+      "white border": 0,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 20000
+    },
+    {
+      "id": 3,
+      "optional": 0,
+      "napkin color": 4,
+      "white border": 0,
+      "extra cylinder": 1,
+      "cost per unit of waste": 0.16,
+      "demand": 120000
+    },
+    {
+      "id": 4,
+      "optional": 0,
+      "napkin color": 4,
+      "white border": 0,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 60000
+    },
+    {
+      "id": 5,
+      "optional": 0,
+      "napkin color": 3,
+      "white border": 0,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 10000
+    },
+    {
+      "id": 6,
+      "optional": 0,
+      "napkin color": 4,
+      "white border": 0,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 10000
+    },
+    {
+      "id": 9,
+      "optional": 0,
+      "napkin color": 2,
+      "white border": 1,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 10000
+    },
+    {
+      "id": 10,
+      "optional": 0,
+      "napkin color": 4,
+      "white border": 1,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 20000
+    },
+    {
+      "id": 11,
+      "optional": 0,
+      "napkin color": 4,
+      "white border": 1,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 20000
+    },
+    {
+      "id": 12,
+      "optional": 0,
+      "napkin color": 4,
+      "white border": 0,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 10000
+    },
+    {
+      "id": 13,
+      "optional": 0,
+      "napkin color": 4,
+      "white border": 0,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 20000
+    },
+    {
+      "id": 14,
+      "optional": 0,
+      "napkin color": 4,
+      "white border": 0,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 10000
+    },
+    {
+      "id": 15,
+      "optional": 0,
+      "napkin color": 4,
+      "white border": 1,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 10000
+    },
+    {
+      "id": 16,
+      "optional": 0,
+      "napkin color": 4,
+      "white border": 1,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 10000
+    },
+    {
+      "id": 17,
+      "optional": 0,
+      "napkin color": 4,
+      "white border": 1,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 10000
+    },
+    {
+      "id": 18,
+      "optional": 0,
+      "napkin color": 4,
+      "white border": 0,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 20000
+    },
+    {
+      "id": 19,
+      "optional": 0,
+      "napkin color": 4,
+      "white border": 0,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 10000
+    },
+    {
+      "id": 20,
+      "optional": 0,
+      "napkin color": 4,
+      "white border": 0,
+      "extra cylinder": 1,
+      "cost per unit of waste": 0.16,
+      "demand": 20000
+    },
+    {
+      "id": 21,
+      "optional": 0,
+      "napkin color": 5,
+      "white border": 0,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 40000
+    },
+    {
+      "id": 22,
+      "optional": 0,
+      "napkin color": 4,
+      "white border": 1,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 10000
+    },
+    {
+      "id": 23,
+      "optional": 0,
+      "napkin color": 5,
+      "white border": 1,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 10000
+    },
+    {
+      "id": 24,
+      "optional": 0,
+      "napkin color": 4,
+      "white border": 0,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 10000
+    },
+    {
+      "id": 25,
+      "optional": 0,
+      "napkin color": 4,
+      "white border": 0,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 10000
+    },
+    {
+      "id": 27,
+      "optional": 0,
+      "napkin color": 4,
+      "white border": 0,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 30000
+    },
+    {
+      "id": 28,
+      "optional": 0,
+      "napkin color": 4,
+      "white border": 0,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 30000
+    },
+    {
+      "id": 29,
+      "optional": 0,
+      "napkin color": 4,
+      "white border": 1,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 10000
+    },
+    {
+      "id": 30,
+      "optional": 0,
+      "napkin color": 4,
+      "white border": 0,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 10000
+    },
+    {
+      "id": 31,
+      "optional": 0,
+      "napkin color": 4,
+      "white border": 0,
+      "extra cylinder": 1,
+      "cost per unit of waste": 0.16,
+      "demand": 50000
+    },
+    {
+      "id": 32,
+      "optional": 0,
+      "napkin color": 4,
+      "white border": 0,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 10000
+    },
+    {
+      "id": 33,
+      "optional": 1,
+      "napkin color": 4,
+      "white border": 0,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 10000
+    },
+    {
+      "id": 34,
+      "optional": 1,
+      "napkin color": 4,
+      "white border": 0,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 10000
+    },
+    {
+      "id": 35,
+      "optional": 1,
+      "napkin color": 4,
+      "white border": 0,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 10000
+    },
+    {
+      "id": 36,
+      "optional": 1,
+      "napkin color": 4,
+      "white border": 0,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 10000
+    },
+    {
+      "id": 37,
+      "optional": 1,
+      "napkin color": 4,
+      "white border": 0,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 10000
+    },
+    {
+      "id": 38,
+      "optional": 1,
+      "napkin color": 4,
+      "white border": 0,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 20000
+    },
+    {
+      "id": 39,
+      "optional": 1,
+      "napkin color": 4,
+      "white border": 0,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 20000
+    },
+    {
+      "id": 40,
+      "optional": 1,
+      "napkin color": 4,
+      "white border": 0,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 20000
+    },
+    {
+      "id": 41,
+      "optional": 1,
+      "napkin color": 4,
+      "white border": 0,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.16,
+      "demand": 20000
+    }
+  ]
+}

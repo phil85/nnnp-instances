@@ -1,0 +1,55 @@
+{
+  "name": "IE",
+  "number of slots": 3,
+  "setup costs printing plate": 100,
+  "setup costs extra cylinder": 25,
+  "split costs": 10,
+  "max number of different napkin colors": 2,
+  "designs": [
+    {
+      "id": "D1",
+      "optional": 0,
+      "napkin color": 1,
+      "white border": 1,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.01,
+      "demand": 10000
+    },
+    {
+      "id": "D2",
+      "optional": 0,
+      "napkin color": 2,
+      "white border": 1,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.01,
+      "demand": 10000
+    },
+    {
+      "id": "D3",
+      "optional": 0,
+      "napkin color": 2,
+      "white border": 0,
+      "extra cylinder": 1,
+      "cost per unit of waste": 0.01,
+      "demand": 30000
+    },
+    {
+      "id": "D4",
+      "optional": 0,
+      "napkin color": 3,
+      "white border": 0,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.01,
+      "demand": 10000
+    },
+    {
+      "id": "D5",
+      "optional": 0,
+      "napkin color": 3,
+      "white border": 0,
+      "extra cylinder": 0,
+      "cost per unit of waste": 0.01,
+      "demand": 20000
+    }
+  ]
+}
